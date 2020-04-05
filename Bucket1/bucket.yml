@@ -1,5 +1,5 @@
 flows:
-  27c78f03-4e7c-45aa-988e-ea32281e218a: {ver: 1, file: Flow1.snapshot, comments: '',
-    author: anonymous, created: 1586088180912, flowName: Flow1, flowDesc: ''}
+  27c78f03-4e7c-45aa-988e-ea32281e218a: {ver: 2, file: Flow1.snapshot, comments: Add
+      project, author: anonymous, created: 1586090171828, flowName: Flow1, flowDesc: ''}
 layoutVer: 1
 bucketId: 4b29dded-4ddb-45b9-9ef6-fcf9e1aae194
