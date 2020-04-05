@@ -1,6 +1,5 @@
 flows:
-  27c78f03-4e7c-45aa-988e-ea32281e218a: {ver: 3, file: Flow1.snapshot, comments: Change
-      and config the project, author: anonymous, created: 1586093135111, flowName: Flow1,
-    flowDesc: ''}
+  27c78f03-4e7c-45aa-988e-ea32281e218a: {ver: 4, file: Flow1.snapshot, comments: Add
+      timeout, author: anonymous, created: 1586096277197, flowName: Flow1, flowDesc: ''}
 layoutVer: 1
 bucketId: 4b29dded-4ddb-45b9-9ef6-fcf9e1aae194

@@ -911,7 +911,7 @@
           },
           "comments" : "",
           "componentType" : "PROCESSOR",
-          "concurrentlySchedulableTaskCount" : 1,
+          "concurrentlySchedulableTaskCount" : 7,
           "executionNode" : "ALL",
           "groupIdentifier" : "4e6c478f-7952-3739-ab91-e8be7351fb77",
           "identifier" : "9fdd5cb6-9a54-3278-9099-9be0fd32d74d",
